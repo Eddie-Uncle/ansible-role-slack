@@ -21,6 +21,11 @@ galaxy_info:
     - yakkety
     - zesty
 
-  galaxy_tags: []
+  galaxy_tags:
+    - chat
+    - communication
+    - slack
+    - collaboration
+    - im
 
 dependencies: []
