@@ -43,7 +43,9 @@ None
 ## Example Playbook
 
 ```
+---
 - hosts: localhost
+  become: yes
   roles:
      - { role: avnes.ansible-role-slack, slack_tmp_dir: /tmp }
 ```
