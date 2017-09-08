@@ -1,3 +1,4 @@
+master: [![Build Status](https://travis-ci.org/avnes/ansible-role-slack.png?branch=master)](https://travis-ci.org/avnes/ansible-role-slack) develop: [![Build Status](https://travis-ci.org/avnes/ansible-role-slack.png?branch=develop)](https://travis-ci.org/avnes/ansible-role-slack)
 # ansible-role-slack
 
 Downloads and installs the latest version of Slack for Linux.
